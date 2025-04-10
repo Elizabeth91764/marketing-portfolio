@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Marketing Analytics Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Marketing Analytics"
+        file: analytics.qmd
+      - text: "Resume"
+        file: resume2025.qmd
+      - text: "Revealjs Presentation"
+        file: revealjs.qmd
+
+
+format:
+  html:
+    theme: flatly
+    toc: true

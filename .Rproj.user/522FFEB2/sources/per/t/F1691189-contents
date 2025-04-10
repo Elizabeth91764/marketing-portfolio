@@ -1,0 +1,58 @@
+---
+title: "Digital Marketing Projects"
+format: html
+page-layout: full
+toc: true
+---
+
+# Digital Marketing Projects
+
+## 1. KyoChon Chicken – Sentiment Analysis & Consumer Insight Strategy
+
+- Conducted sentiment analysis on Google and Yelp reviews for KyoChon, a popular Korean fried chicken restaurant, as part of a digital marketing capstone.  
+- Cleaned and prepared review text data using Python and Pandas, addressing duplicates, null values, and special characters.  
+- Applied BERT (Bidirectional Encoder Representations from Transformers) to extract deeper, context-aware sentiment from customer reviews.  
+- Identified recurring themes in reviews through topic modeling and keyword frequency analysis, helping the team understand brand perception across locations.  
+- Visualized findings using Matplotlib to present trends and consumer insights to guide potential strategy for brand improvement.  
+
+**Tools & Concepts:**  
+Python, BERT, NLP, Sentiment Analysis, Pandas, Matplotlib, Data Cleaning, Topic Modeling, Consumer Insight, Brand Perception
+
+---
+
+## 2. Cal Poly Farmer’s Market – Local Marketing Strategy (Internship)
+
+- Participated in a marketing internship focused on increasing awareness and engagement with the Cal Poly Pomona Farm Store and weekly farmer’s market.  
+- Conducted persona development based on observational data and stakeholder discussions.  
+- Assisted in strategy design using tools like the Marketing Funnel and SWOT Analysis to identify growth opportunities.  
+- Proposed creative digital and on-campus outreach ideas, including themed event days, student incentives, and social media content aligned with community values.  
+- Collaborated with a small team to prepare presentation materials and deliver strategic recommendations to Farm Store leadership.  
+
+**Tools & Concepts:**  
+Audience Targeting, Persona Creation, SWOT Analysis, Grassroots Marketing, Digital Strategy, Campaign Planning, Team Collaboration, Internship Experience
+
+---
+
+## 3. Up Energy Protein Popcorn – Market Strategy & Consumer Research
+
+- Contributed to a team project analyzing consumer insights for a health-focused snack product.  
+- Helped design survey sections focused on brand awareness, slogan testing, and flavor preferences using Google Forms.  
+- Cleaned and organized raw survey data using R and Excel, preparing variables for analysis and visualization.  
+- Conducted basic descriptive and comparative analysis, highlighting patterns in purchase intent, health behaviors, and packaging preferences.  
+- Supported presentation development using Quarto Revealjs to summarize findings for stakeholders.  
+
+**Tools & Concepts:**  
+R, Excel, Survey Design, Brand Awareness, Segmentation, Ansoff Matrix, Purchase Intent, Data Cleaning, Visualization
+
+---
+
+## 4. AI Usage and Policy Survey – Higher Education Research
+
+- Assisted in formatting and refining a faculty-led research survey on student interactions with AI tools in academic environments.  
+- Translated a detailed draft into a user-friendly and logically structured Google Form, improving readability and flow.  
+- Focused on UX optimization and clarity to support higher completion rates and more consistent data collection.  
+- The survey captured student awareness, frequency of AI use (e.g., ChatGPT), and familiarity with institutional AI policies.  
+- Ensured the final format was export-ready for analysis in R or Python.  
+
+**Tools & Concepts:**  
+Google Forms, Survey Optimization, Educational Research, AI Tool Usage, UX Design, Policy Awareness, Data Structuring
